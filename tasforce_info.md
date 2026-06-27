@@ -1,0 +1,277 @@
+# T.A.S. FORCE – RAG Knowledge Base
+
+Source: https://tas-force.com/de/
+Generated: June 2026
+
+---
+
+## 1. Company Overview
+
+**Full name:** T.A.S. FORCE GmbH
+**Founded:** 2020
+**Headquarters:** Paul-Dessau-Str. 5, 22761 Hamburg, Germany
+**Website:** https://tas-force.com
+**LinkedIn:** https://www.linkedin.com/company/tas-force/
+**Industry focus:** Automotive OEMs, Tier-1 and Tier-2 suppliers
+**International offices:** Germany, Poland, Romania, Turkey
+**Languages:** German and English (bilingual website)
+
+T.A.S. FORCE GmbH is a specialised implementation partner for the automotive and supplier industry. The company is not a classic strategy consultancy but a hands-on task force of experienced industry leaders and operational experts. Its mission is to solve difficult challenges in Supply Chain, Production and Quality – quickly, structurally and with measurable success.
+
+**Tagline:** "Wir sichern Lieferfähigkeit, steigern Produktivität, schützen kritische Geschäftsprozesse und schaffen Strukturen, die bleiben." (We secure delivery capability, increase productivity, protect critical business processes and create structures that endure.)
+
+The company describes itself as pragmatic, precise and performance-strong. Its differentiator versus classic consulting firms is direct on-site implementation (Shopfloor presence), rapid mobilisation with a response time under 24 hours, and a results-oriented approach with measurable KPIs.
+
+**Name origin:** The acronym T.A.S. stands for the initials of the three founders – Thomas, Arash and Soroush. "Force" is both a promise and a positioning: the company presents itself as a powerful, implementation-oriented unit – a real task force with operational depth.
+
+---
+
+## 2. Services (Leistungen)
+
+### 2.1 Operations
+
+- Task Force Management – rapid stabilisation of acute production crises
+- Efficiency Programmes (Effizienzprogramme) – structured improvement of OEE and throughput times
+- Shopfloor Management – direct presence and management on the production floor
+- Relocations and Industrialisation (Verlagerungen & Industrialisierung) – complete plant moves and industrialisation of new sites
+- Lean Management and Process Optimisation – 5S, SMED, value stream mapping, continuous improvement (KVP)
+
+### 2.2 Purchasing and Supply Chain Management (Einkauf & Supply Chain Management)
+
+- Supplier Management (Lieferantenmanagement) – supplier audits and development
+- Supplier Relocation (Lieferantenverlagerung) – managed transfer of supplier production capacities
+- Task Force Management for Suppliers – on-site crisis intervention directly at suppliers
+- Cost Optimisation in Purchasing (Kostenoptimierung im Einkauf) – identification of savings potentials
+- Supplier Risk Management (Lieferantenrisikomanagement) – risk mapping and mitigation
+- Supply Chain Transparency and ESG Compliance (Lieferkettentransparenz & ESG-Compliance) – LkSG- and CSRD-ready reporting
+
+### 2.3 Quality Management (Qualitätsmanagement)
+
+- Optimised Quality Organisation – QM structure design and implementation
+- Sustainable Complaint Management (Nachhaltiges Reklamationsmanagement) – 8D methodology, root cause elimination
+- Reduction of Quality Costs – total cost of quality approach
+- Operative Quality Excellence – IATF 16949, APQP, PPAP, SPC
+- Certification Support (Zertifizierungsbegleitung) – preparation and accompaniment of audits
+
+### 2.4 Cybersecurity
+
+- Supply Chain Cybersecurity – cyber risk management across the supply network
+- OT/IT Security and Industrial Cyber Resilience – protection of production and operational environments
+- NIS-2 and Regulatory Compliance – gap analysis and implementation roadmap
+- Cybersecurity Strategy and Governance – policy frameworks, CISO support
+- Cyber Incident Response in Industrial Operations – crisis management for OT/IT incidents
+- Cyber Third-Party Risk Management – vendor cyber assessments
+
+### 2.5 Restructuring and Transformation (Restrukturierung & Transformation)
+
+- Operational Turnaround and Restructuring – fast stabilisation of distressed operations
+- Distressed Turnaround Management – insolvency-adjacent situations
+- Transformation and Organisational Development – new operating models
+- Change Management and Communication – employee and stakeholder engagement
+
+### 2.6 Digital Solutions (Digitale Lösungen)
+
+- Data Analytics and Data-Driven Operations – real-time dashboards, KPI systems
+- AI Solution Development – AI-powered process tools
+- Robotic Process Automation (RPA) – automating repetitive workflows
+- ERP Transformation – SAP and other ERP roll-outs and migrations
+
+### 2.7 Automotive SPICE and Process Compliance
+
+- ASPICE readiness assessments and gap analyses
+- Process implementation for development organisations
+- Audit-ready structures for OEM assessments
+
+---
+
+## 3. Clients and References
+
+T.A.S. FORCE serves OEMs and Tier-1/Tier-2 suppliers. The following clients are referenced on the company website:
+
+Mercedes-Benz, Porsche, MAN, AMG, Daimler Truck, Schaeffler, Knorr-Bremse, KION Group, Dräxlmaier, Eberspächer, Vitesco Technologies, Paragon, WOCO, TK Elevator (TKE), NBHX, Microvast
+
+### Selected Success Stories
+
+**War stops leather seat production – premium OEM faces supply collapse**
+T.A.S. FORCE rapidly secured alternative supply sources and stabilised production for a premium OEM after war disrupted a critical leather seat cover supplier.
+
+**Relocation of four German plants to Poland – Tier-2 injection moulding**
+Managed end-to-end relocation of four production facilities from Germany to Poland, covering logistics, supplier transfers and run-at-rate qualification.
+
+**Global Tier-1 supplier in crisis – T.A.S. FORCE leads turnaround**
+Operational turnaround of a globally operating Tier-1 supplier in acute financial and operational distress, including leadership stabilisation and process redesign.
+
+**Best-Cost-Country Sourcing: global supplier landscape realigned**
+Comprehensive resourcing project moving procurement to best-cost countries while maintaining quality and delivery standards.
+
+---
+
+## 4. Key Performance Figures
+
+- Response time to on-site deployment: under 24 hours
+- Projects with acute production risk successfully stabilised: 50+
+- International relocations executed in 6 countries: 10+
+- Average backlog reduction at supplier interventions: over 80%
+- Countries with own offices: 4 (Germany, Poland, Romania, Turkey)
+- Year of foundation: 2020
+- Founders' prior shared industry collaboration: 20+ years
+
+---
+
+## 5. Founders and Management Team
+
+### 5.1 History
+
+T.A.S. FORCE was founded in 2020 by Dr. Thomas Dückers, Arash Farsian and Soroush Farsian – united by decades of shared industrial experience, deep mutual trust and a family friendship spanning over 20 years. The roots reach back to a joint venture producing axle components for ZF Lemförder in the Middle East. Since then the three founders have collaborated on numerous projects: restructurings, plant closures, production relocations, post-merger integrations and series launches – at companies including Richard Fritz, Pearl Stream and other Tier-1 suppliers. The company was founded with a clear ambition: not to be a classic consultancy but a specialised task force with genuine implementation competence.
+
+### 5.2 Founders
+
+**Dr. Thomas Dückers – Co-Founder**
+40+ years of leadership experience in the global automotive industry. Former board member and CEO at ZF, Johnson Controls, Kostal and Bharat Forge. Has served as CEO/CRO for multiple automotive suppliers.
+LinkedIn: https://www.linkedin.com/in/thomasdueckers/
+
+**Arash Farsian – Co-Founder and Managing Director**
+Background in mechanical engineering and production management. Former plant manager at Richard Fritz. Led strategic projects for AMG, Knorr-Bremse and KION.
+LinkedIn: https://www.linkedin.com/in/arash-tas-force/
+
+**Soroush Farsian – Co-Founder and Managing Director**
+Background in mechanical engineering and industrial engineering. Former plant manager at Burkhardt Kunststoff / Pearl Stream. Former Head of SCM at SOMEO. Project leadership for BMW, Mercedes-Benz and KION.
+LinkedIn: https://www.linkedin.com/in/soroushfarsian
+
+### 5.3 Advisory Board
+
+**Frank Deiß**
+Former Chairman Mercedes-Benz Drive Systems and VP Production Powertrain. Former plant manager Mercedes-Benz Untertürkheim. President and CEO Beijing Benz Automotive Corporation. Global Head of Procurement Mercedes-Benz Cars and Vans.
+LinkedIn: https://www.linkedin.com/in/frank-deiß-a86736142
+
+**Joachim Goldbach**
+Former VP Purchasing and Supplier Network, BMW Group. Former Head of Purchasing, BMW South Africa.
+LinkedIn: https://www.linkedin.com/in/joachim-goldbach-8580148/
+
+**Simon Saba**
+Former SVP Global Procurement, Knorr-Bremse. Global Head of Procurement, Eisenmann. Director Global Procurement, SKF. VP Procurement, MAN. Chief Procurement Officer, Keenfinity Group.
+LinkedIn: https://www.linkedin.com/in/simon-saba-a3a5464/
+
+### 5.4 Country Managers
+
+**Gerhard Gröhser – Managing Director T.A.S. FORCE Romania**
+Specialist in plastics technology, toolmaking and quality management. Led greenfield projects and production relocations in Poland, Germany and Romania (e.g. ESSER Group, ENEC SRL, NTI SRL, Luxshare-Tech). Restructuring experience at FORVIA HELLA and SuK Kunststofftechnik.
+LinkedIn: https://www.linkedin.com/in/gerhard-gröhser-743a62125/
+
+**Aleksandra Kuczyńska – Country Manager T.A.S. FORCE Polska**
+Senior consultant with project management responsibility in metal component manufacturing. Deep expertise in lean manufacturing, industrialisation and quality management.
+LinkedIn: https://www.linkedin.com/in/aleksandra-kuczyńska-528431229/
+
+**Tarik Eginç – Country Manager T.A.S. FORCE Türkiye**
+Head of Procurement at KRONE Trailer. Purchasing Manager at ZF Lemförder. Procurement and Quality Manager at EGE ENDUSTRI.
+LinkedIn: https://www.linkedin.com/in/tarik-eginç-26907b73/
+
+### 5.5 Centers of Excellence (CoE)
+
+**Klaus-Dieter Lengelsen – Head of CoE Operations**
+40+ years of leadership in the automotive supply industry. Former COO Kienle + Spiess Group. Former MD Walloschke. Led international plant builds at WKW and Electrolux. Expert in restructuring, production relocation, lean operations and manufacturing technologies.
+LinkedIn: https://www.linkedin.com/in/klaus-dieter-lengelsen-6a46bb78/
+
+**Felix Heidinger – Head of CoE Procurement and Supply Chain Management**
+Background in production engineering and supply chain management. Leads interdisciplinary task forces in purchasing and supply chain. Responsible for critical production relocations and securing delivery capability.
+LinkedIn: https://www.linkedin.com/in/felix-heidinger/
+
+**Dr. Dan Tulvan – Head of CoE Quality Management**
+25+ years in the automotive industry. General Manager Takata Romania. General Manager Hirschmann Romania. Quality Manager and Operations Manager BOS Automotive Romania. Lean Six Sigma Black Belt. IATF 16949 Auditor.
+LinkedIn: https://www.linkedin.com/in/tulvan-dan-ba5ab144/
+
+---
+
+## 6. Office Locations
+
+**Germany (Headquarters)**
+T.A.S. FORCE GmbH
+Paul-Dessau-Str. 5
+22761 Hamburg
+Germany
+
+**Poland**
+T.A.S. FORCE Polska Sp. z o.o.
+ul. Sucha 3
+50-086 Wrocław
+Poland
+
+**Romania**
+T.A.S. FORCE Romania S.R.L.
+Strada Tăpia 9
+300 254 Timișoara
+Romania
+
+**Turkey**
+T.A.S. FORCE Türkiye Ltd. Şti.
+Mansuroğlu Mah. 286/3 Sk. 14/B
+35535 İzmir
+Turkey
+
+### Why local presence matters
+
+Local Expertise: Consultants are based in their respective countries, speak the local language and know the regulatory environment and industrial culture of the region.
+
+Cultural Understanding: Regional negotiation and decision-making styles are factored in from day one, reducing friction and accelerating project progress.
+
+Rapid Mobilisation: Short travel distances allow on-site intervention within 24 hours, stabilising critical situations before they escalate.
+
+Established Networks: Long-standing relationships with suppliers, sub-suppliers and authorities simplify coordination and open additional options.
+
+Cost Efficiency: Local teams reduce travel and ancillary costs, enabling focused investment in actual problem-solving.
+
+Deep Market Knowledge: T.A.S. FORCE knows the structures, capacities and risks of regional supplier landscapes and targets interventions where they deliver the greatest operational benefit.
+
+---
+
+## 7. Company Values
+
+**Excellence (Exzellenz)**
+T.A.S. FORCE strives for excellence in every project through high professional standards, continuous improvement and uncompromising quality orientation. For clients this means solutions that work – sustainably, measurably and professionally implemented.
+
+**Honesty (Ehrlichkeit)**
+Open, clear and transparent communication – even when uncomfortable. Honesty creates trust and is the foundation for partnership at eye level.
+
+**Responsibility (Verantwortung)**
+Full ownership of recommendations, actions and results. Clients can rely on T.A.S. FORCE to think ahead, co-design and stand accountable for project success.
+
+**Integrity (Integrität)**
+Acting by fixed principles – reliably, loyally and with high ethical standards. Decisions are guided not by short-term advantage but by long-term trust and shared success.
+
+---
+
+## 8. Expertise and Insights Areas
+
+T.A.S. FORCE publishes thought leadership and expertise content in the following domains:
+
+### Restructuring and Transformation
+- Operational Turnaround and Restructuring
+- Distressed Turnaround Management
+- Transformation and Organisational Development
+- Change Management and Communication
+
+### Digital Solutions
+- Data Analytics and Data-Driven Operations
+- AI Solution Development
+- Robotic Process Automation (RPA)
+- ERP Transformation
+
+### Automotive SPICE and Process Compliance
+- Process maturity assessment
+- ASPICE readiness for development organisations
+- Audit-ready structure build
+
+---
+
+## 9. Contact and Career
+
+**Contact page:** https://tas-force.com/de/kontakt/
+**LinkedIn:** https://www.linkedin.com/company/tas-force/
+**Headquarters address:** Paul-Dessau-Str. 5, 22761 Hamburg, Germany
+
+**Career / Jobs:** https://tas-force.com/de/karriere/
+T.A.S. FORCE actively recruits automotive experts with a hands-on mindset. The company offers a steep learning curve, international assignments, responsibility from day one and a team culture built on trust and resilience under pressure.
+
+---
+
+Source: tas-force.com/de/ | Content as of June 2026
