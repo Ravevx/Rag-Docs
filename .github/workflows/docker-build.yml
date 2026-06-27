@@ -22,4 +22,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: ${{ secrets.ACR_LOGIN_SERVER }}/rag-tasforce:latest
+        tags: ${{ secrets.ACR_LOGIN_SERVER }}/rag-assistant:latest
