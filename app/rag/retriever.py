@@ -1,25 +1,19 @@
-import os
 from azure.search.documents import SearchClient
 from azure.core.credentials import AzureKeyCredential
 from azure.search.documents.models import VectorizedQuery
-from app.rag.embeddings import generate_embedding
-from dotenv import load_dotenv
+from app.rag.embeddings import get_query_embedding
+from app.core.config import get_settings
 
-load_dotenv()
-
-AZURE_SEARCH_ENDPOINT = os.getenv("AZURE_SEARCH_ENDPOINT")
-AZURE_SEARCH_KEY = os.getenv("AZURE_SEARCH_KEY")
-INDEX_NAME = "rag-documents"
-
+settings = get_settings()
 
 def search_documents(query: str, top_k: int = 5) -> list[str]:
     client = SearchClient(
-        endpoint=AZURE_SEARCH_ENDPOINT,
-        index_name=INDEX_NAME,
-        credential=AzureKeyCredential(AZURE_SEARCH_KEY)
+        endpoint=settings.azure_search_endpoint,
+        index_name=settings.azure_search_index_name,
+        credential=AzureKeyCredential(settings.azure_search_key)
     )
 
-    query_embedding = generate_embedding(query)
+    query_embedding = get_query_embedding(query)  # ✅ uses retrieval_query task type
 
     vector_query = VectorizedQuery(
         vector=query_embedding,

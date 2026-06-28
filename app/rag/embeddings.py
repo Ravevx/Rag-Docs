@@ -1,22 +1,22 @@
-from typing import List
-from sentence_transformers import SentenceTransformer
+from google import genai
+from google.genai import types
+from app.core.config import get_settings
 
-_model = None
+settings = get_settings()
+client = genai.Client(api_key=settings.gemini_api_key)
 
-def get_model():
-    global _model
-    if _model is None:
-        _model = SentenceTransformer("all-MiniLM-L6-v2")
-    return _model
+def get_embedding(text: str) -> list[float]:
+    result = client.models.embed_content(
+        model="gemini-embedding-001",  # ✅ new model, replaces text-embedding-004
+        contents=text,
+        config=types.EmbedContentConfig(task_type="RETRIEVAL_DOCUMENT")
+    )
+    return result.embeddings[0].values
 
-
-def generate_embedding(text: str) -> List[float]:
-    model = get_model()
-    embedding = model.encode(text, normalize_embeddings=True)
-    return embedding.tolist()
-
-
-def generate_embeddings_batch(texts: List[str]) -> List[List[float]]:
-    model = get_model()
-    embeddings = model.encode(texts, normalize_embeddings=True)
-    return [e.tolist() for e in embeddings]
+def get_query_embedding(text: str) -> list[float]:
+    result = client.models.embed_content(
+        model="gemini-embedding-001",  # ✅ new model
+        contents=text,
+        config=types.EmbedContentConfig(task_type="RETRIEVAL_QUERY")
+    )
+    return result.embeddings[0].values

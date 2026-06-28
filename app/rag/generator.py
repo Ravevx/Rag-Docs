@@ -1,18 +1,17 @@
-import os
 from groq import Groq
-from dotenv import load_dotenv
+from app.core.config import get_settings
 
-load_dotenv()
+settings = get_settings()
 
 def get_client():
-    return Groq(api_key=os.getenv("GROQ_API_KEY"))
+    return Groq(api_key=settings.groq_api_key)
 
 def generate_answer(question: str, chunks: list[str]) -> str:
     client = get_client()
     context = "\n\n".join(chunks)
 
     response = client.chat.completions.create(
-        model="llama-3.3-70b-versatile",
+        model="llama-3.1-8b-instant",
         messages=[
             {
                 "role": "system",
